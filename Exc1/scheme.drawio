@@ -1,0 +1,394 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="Страница — 1" id="v_-mV0xeg-UXUU2A-wiy">
+    <mxGraphModel dx="977" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gtVitp8pJUC_mxeG93B2-242" value="IT_Landscape" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="780" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-243" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry width="780" height="64" as="geometry">
+            <mxRectangle width="780" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-244" value="Организационная структура" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-243">
+          <mxGeometry x="40" width="123" height="64" as="geometry">
+            <mxRectangle width="123" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-245" value="Продажи через кол-центр" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-243">
+          <mxGeometry x="163" width="124" height="64" as="geometry">
+            <mxRectangle width="124" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-246" value="Digital-оповещения клиентов" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-243">
+          <mxGeometry x="287" width="123" height="64" as="geometry">
+            <mxRectangle width="123" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-247" value="Обслуживание депозитных процессов" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-243">
+          <mxGeometry x="410" width="123" height="64" as="geometry">
+            <mxRectangle width="123" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-248" value="Обслуживание кредитных процессов" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-243">
+          <mxGeometry x="533" width="124" height="64" as="geometry">
+            <mxRectangle width="124" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-249" value="Управление договорами" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-243">
+          <mxGeometry x="657" width="123" height="64" as="geometry">
+            <mxRectangle width="123" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-250" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="64" width="780" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-251" value="Управление обслуживанием в сети отделений" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-250">
+          <mxGeometry x="40" width="123" height="69" as="geometry">
+            <mxRectangle width="123" height="69" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-252" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-250">
+          <mxGeometry x="163" width="124" height="69" as="geometry">
+            <mxRectangle width="124" height="69" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-253" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-250">
+          <mxGeometry x="287" width="123" height="69" as="geometry">
+            <mxRectangle width="123" height="69" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-254" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-250">
+          <mxGeometry x="410" width="123" height="69" as="geometry">
+            <mxRectangle width="123" height="69" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-255" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-250">
+          <mxGeometry x="533" width="124" height="69" as="geometry">
+            <mxRectangle width="124" height="69" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-256" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-250">
+          <mxGeometry x="657" width="123" height="69" as="geometry">
+            <mxRectangle width="123" height="69" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-257" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="133" width="780" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-258" value="Управление обслуживанием депозитных продуктов" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-257">
+          <mxGeometry x="40" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-259" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-257">
+          <mxGeometry x="163" width="124" height="70" as="geometry">
+            <mxRectangle width="124" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-260" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-257">
+          <mxGeometry x="287" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-261" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-257">
+          <mxGeometry x="410" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-262" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-257">
+          <mxGeometry x="533" width="124" height="70" as="geometry">
+            <mxRectangle width="124" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-263" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-257">
+          <mxGeometry x="657" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-264" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="203" width="780" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-265" value="Управление обслуживанием кредитных продуктов" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-264">
+          <mxGeometry x="40" width="123" height="71" as="geometry">
+            <mxRectangle width="123" height="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-266" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-264">
+          <mxGeometry x="163" width="124" height="71" as="geometry">
+            <mxRectangle width="124" height="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-267" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-264">
+          <mxGeometry x="287" width="123" height="71" as="geometry">
+            <mxRectangle width="123" height="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-268" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-264">
+          <mxGeometry x="410" width="123" height="71" as="geometry">
+            <mxRectangle width="123" height="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-269" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-264">
+          <mxGeometry x="533" width="124" height="71" as="geometry">
+            <mxRectangle width="124" height="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-270" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-264">
+          <mxGeometry x="657" width="123" height="71" as="geometry">
+            <mxRectangle width="123" height="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-271" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="274" width="780" height="68" as="geometry">
+            <mxRectangle y="291" width="780" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-272" value="Кол-центр банка" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-271">
+          <mxGeometry x="40" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-273" value="Система кол-центра" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-271">
+          <mxGeometry x="163" width="124" height="68" as="geometry">
+            <mxRectangle width="124" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-274" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-271">
+          <mxGeometry x="287" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-275" value="Система кол-центра" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-271">
+          <mxGeometry x="410" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-276" value="Система кол-центра" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-271">
+          <mxGeometry x="533" width="124" height="68" as="geometry">
+            <mxRectangle width="124" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-277" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-271">
+          <mxGeometry x="657" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-278" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="342" width="780" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-279" value="Партнёрский кол-центр" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-278">
+          <mxGeometry x="40" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-280" value="Система кол-центра" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-278">
+          <mxGeometry x="163" width="124" height="68" as="geometry">
+            <mxRectangle width="124" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-281" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-278">
+          <mxGeometry x="287" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-282" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-278">
+          <mxGeometry x="410" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-283" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-278">
+          <mxGeometry x="533" width="124" height="68" as="geometry">
+            <mxRectangle width="124" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-284" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-278">
+          <mxGeometry x="657" width="123" height="68" as="geometry">
+            <mxRectangle width="123" height="68" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-285" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="410" width="780" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-286" value="Команда цифровой трансформации" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-285">
+          <mxGeometry x="40" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-287" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-285">
+          <mxGeometry x="163" width="124" height="70" as="geometry">
+            <mxRectangle width="124" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-288" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-285">
+          <mxGeometry x="287" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-289" value="Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-285">
+          <mxGeometry x="410" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-290" value="Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-285">
+          <mxGeometry x="533" width="124" height="70" as="geometry">
+            <mxRectangle width="124" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-291" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-285">
+          <mxGeometry x="657" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-292" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-242">
+          <mxGeometry y="480" width="780" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-293" value="Управление IT" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-292">
+          <mxGeometry x="40" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-294" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-292">
+          <mxGeometry x="163" width="124" height="70" as="geometry">
+            <mxRectangle width="124" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-295" value="СМС-шлюз, Сайт" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-292">
+          <mxGeometry x="287" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-296" value="Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-292">
+          <mxGeometry x="410" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-297" value="Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-292">
+          <mxGeometry x="533" width="124" height="70" as="geometry">
+            <mxRectangle width="124" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-298" value="—" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-292">
+          <mxGeometry x="657" width="123" height="70" as="geometry">
+            <mxRectangle width="123" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-299" value="Integration_Schema" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="430" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-300" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-299">
+          <mxGeometry width="430" height="52" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-301" value="Система" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-300">
+          <mxGeometry x="40" width="131" height="52" as="geometry">
+            <mxRectangle width="131" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-302" value="Интеграция с" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-300">
+          <mxGeometry x="171" width="129" height="52" as="geometry">
+            <mxRectangle width="129" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-303" value="Передаваемые данные" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-300">
+          <mxGeometry x="300" width="130" height="52" as="geometry">
+            <mxRectangle width="130" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-304" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-299">
+          <mxGeometry y="52" width="430" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-305" value="Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-304">
+          <mxGeometry x="40" width="131" height="51" as="geometry">
+            <mxRectangle width="131" height="51" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-306" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-304">
+          <mxGeometry x="171" width="129" height="51" as="geometry">
+            <mxRectangle width="129" height="51" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-307" value="Операции по депозитам" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-304">
+          <mxGeometry x="300" width="130" height="51" as="geometry">
+            <mxRectangle width="130" height="51" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-308" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-299">
+          <mxGeometry y="103" width="430" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-309" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-308">
+          <mxGeometry x="40" width="131" height="52" as="geometry">
+            <mxRectangle width="131" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-310" value="СМС-шлюз, Интернет-банк" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-308">
+          <mxGeometry x="171" width="129" height="52" as="geometry">
+            <mxRectangle width="129" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-311" value="Данные о клиентах, транзакции" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-308">
+          <mxGeometry x="300" width="130" height="52" as="geometry">
+            <mxRectangle width="130" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-312" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-299">
+          <mxGeometry y="155" width="430" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-313" value="Система кол-центра" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-312">
+          <mxGeometry x="40" width="131" height="52" as="geometry">
+            <mxRectangle width="131" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-314" value="АБС, Сайт" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-312">
+          <mxGeometry x="171" width="129" height="52" as="geometry">
+            <mxRectangle width="129" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-315" value="Заявки на депозиты" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-312">
+          <mxGeometry x="300" width="130" height="52" as="geometry">
+            <mxRectangle width="130" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-316" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-299">
+          <mxGeometry y="207" width="430" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-317" value="СМС-шлюз" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-316">
+          <mxGeometry x="40" width="131" height="51" as="geometry">
+            <mxRectangle width="131" height="51" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-318" value="АБС" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-316">
+          <mxGeometry x="171" width="129" height="51" as="geometry">
+            <mxRectangle width="129" height="51" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-319" value="Уведомления" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-316">
+          <mxGeometry x="300" width="130" height="51" as="geometry">
+            <mxRectangle width="130" height="51" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-320" style="shape=tableRow;horizontal=0;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-299">
+          <mxGeometry y="258" width="430" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-321" value="Сайт" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-320">
+          <mxGeometry x="40" width="131" height="52" as="geometry">
+            <mxRectangle width="131" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-322" value="Система кол-центра" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-320">
+          <mxGeometry x="171" width="129" height="52" as="geometry">
+            <mxRectangle width="129" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtVitp8pJUC_mxeG93B2-323" value="Заявки от клиентов" style="shape=partialRectangle;html=1;whiteSpace=wrap;" vertex="1" parent="gtVitp8pJUC_mxeG93B2-320">
+          <mxGeometry x="300" width="130" height="52" as="geometry">
+            <mxRectangle width="130" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
