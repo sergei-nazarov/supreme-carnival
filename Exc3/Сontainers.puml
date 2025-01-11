@@ -1,0 +1,50 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+' Участники
+Person(Клиент, "Клиент", "Пользователь интернет-банка или сайта для подачи заявок и управления депозитами")
+Person(Менеджер_колцентра, "Менеджер кол-центра", "Обрабатывает заявки клиентов, поступившие с сайта")
+Person(Менеджер_бекофиса, "Менеджер бэк-офиса", "Проверяет и подтверждает условия депозитов")
+
+' Системы и контейнеры
+System_Boundary(InternetBank, "Сайт/Интернет-банк") {
+    Container(Site, "Сайт", "React.js, PHP", "Позволяет клиентам подавать заявки")
+    Container(InternetBankApp, "Интернет-банк", "ASP.NET", "Позволяет клиентам управлять депозитами")
+}
+System_Boundary(RequestService, "Сервис обработки заявок") {
+    Container(RequestProcessor, "Сервис обработки заявок", "Spring Boot", "Обрабатывает заявки, готовит данные для АБС")
+    ContainerDb(RequestDb, "База данных заявок", "PostgreSQL", "Хранение данных заявок")
+}
+System_Boundary(ABS, "АБС") {
+    Container(AbsLogic, "Система обработки заявок", "PL/SQL", "Бизнес-логика обработки депозитов")
+    ContainerDb(AbsDb, "База данных АБС", "Oracle Database", "Хранение данных по депозитам")
+}
+System(SmsGateway, "СМС-шлюз", "Отправка уведомлений клиентам")
+System_Boundary(CallCenter, "Система кол-центра") {
+    Container(CallCenterApp, "Кол-центр", "React.js, Spring Boot", "Обработка клиентских заявок")
+}
+
+' Взаимодействия клиента
+Rel(Клиент, Site, "Подача заявки")
+Rel(Клиент, InternetBankApp, "Управление депозитами")
+Rel(Site, RequestProcessor, "Передача данных заявок")
+Rel(InternetBankApp, RequestProcessor, "Передача данных заявок")
+Rel(RequestProcessor, RequestDb, "Сохранение данных заявок")
+
+' Взаимодействие менеджера бэк-офиса
+Rel(Менеджер_бекофиса, RequestProcessor, "Расчет ставок")
+
+' Передача данных в АБС
+Rel(RequestProcessor, AbsLogic, "Передача подтверждённых данных в АБС")
+Rel(AbsLogic, AbsDb, "Сохранение данных о заявке")
+
+' Отправка уведомлений
+Rel(RequestProcessor, SmsGateway, "Отправка уведомлений")
+Rel(SmsGateway, Клиент, "СМС-уведомление")
+
+' Взаимодействие менеджера кол-центра
+Rel(Менеджер_колцентра, CallCenterApp, "Обработка заявок с сайта")
+Rel(CallCenterApp, RequestProcessor, "Передача данных заявок")
+@enduml
